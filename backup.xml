@@ -6,5 +6,5 @@
     <Say>Please dial 1 8 6 6 3 8 3 1 6 5 7 for assistance.</Say>
     <Say>Once again, that number is 1 8 6 6 3 8 3 1 6 5 7.</Say>
     <Say>Attempting to connect you now.</Say>
-    <Dial><Number>+18663831657</Number></Dial>
+    <Dial><Number>1-866-383-1657</Number></Dial>
 </Response>
